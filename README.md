@@ -1,4 +1,4 @@
-# Fuzzy Dual Modal (FDM) Concept
+# Fuzzy Dual Modal (FDM) Concept Analysis
 ### Algorithms and Hasse Diagram Construction for Fuzzy and Crisp Contexts
 
 ## Overview
