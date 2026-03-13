@@ -93,8 +93,8 @@ Dataset generators : The repository includes utilities for generating or transfo
 - **Fuzzy_to_Crisp_context_threshold.cpp**  
   Converts fuzzy contexts to crisp contexts using a threshold.
 
-- **fuzzy_to_crisp_context_Scaling.cpp**  
-  Converts fuzzy contexts to crisp contexts using scaling.
+- **fuzzy_to_crisp_context_Discretization.cpp**  
+  Converts fuzzy contexts to crisp contexts using discretization.
 
 ## Compilation
 Use a C++ compiler supporting **C++11 or newer**. Some programs require **C++17** and **pthread**.
